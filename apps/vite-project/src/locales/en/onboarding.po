@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-09-18 17:16+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:51
+msgid "message_count"
+msgstr[0] "There are no messages"
+msgstr[1] "There's one message in your inbox"
+msgstr[2] "There are # messages in your inbox"
+
+#: src/onboarding/index.tsx:49
+msgid "Click"
+msgstr ""
+
+#: src/onboarding/index.tsx:17
+msgid "Green"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:36
+msgid "msg.hello"
+msgstr "Hello all!!!"
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:39
+msgid "msg.welcome"
+msgstr "Hello all!!!"
+
+#: src/onboarding/index.tsx:33
+msgid "Hello John"
+msgstr ""
+
+#: src/onboarding/index.tsx:60
+msgid "Last login on {0}."
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:29
+msgid "msg.header"
+msgstr "LinguiJS example"
+
+#: src/onboarding/index.tsx:25
+msgid "Onboarding"
+msgstr ""
+
+#: src/onboarding/index.tsx:15
+msgid "Orange"
+msgstr ""
+
+#: src/onboarding/index.tsx:14
+msgid "Red"
+msgstr ""
+
+#: src/onboarding/index.tsx:16
+msgid "Yellow"
+msgstr ""

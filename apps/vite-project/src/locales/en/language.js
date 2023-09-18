@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"C5I/rQ\":\"Lets Change the outlook\"}")};

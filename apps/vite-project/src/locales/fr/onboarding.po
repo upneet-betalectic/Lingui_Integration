@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-09-18 17:16+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:51
+msgid "message_count"
+msgstr[0] "Il n'y a pas de messages"
+msgstr[1] "Il y a un message dans votre boîte de réception"
+msgstr[2] "Il y a # messages dans votre boîte de réception"
+
+#: src/onboarding/index.tsx:49
+msgid "Click"
+msgstr "Cliquez"
+
+#: src/onboarding/index.tsx:17
+msgid "Green"
+msgstr "Vert"
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:36
+msgid "msg.hello"
+msgstr "Bonjour à tous !!!"
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:39
+msgid "msg.welcome"
+msgstr "Bonjour à tous !!!"
+
+#: src/onboarding/index.tsx:33
+msgid "Hello John"
+msgstr "Bonjour John"
+
+#: src/onboarding/index.tsx:60
+msgid "Last login on {0}."
+msgstr "Dernière connexion le {0}."
+
+#. js-lingui-explicit-id
+#: src/onboarding/index.tsx:29
+msgid "msg.header"
+msgstr "Exemple LinguiJS"
+
+#: src/onboarding/index.tsx:25
+msgid "Onboarding"
+msgstr "Intégration"
+
+#: src/onboarding/index.tsx:15
+msgid "Orange"
+msgstr "Orange"
+
+#: src/onboarding/index.tsx:14
+msgid "Red"
+msgstr "Rouge"
+
+#: src/onboarding/index.tsx:16
+msgid "Yellow"
+msgstr "Jaune"

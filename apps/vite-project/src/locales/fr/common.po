@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-09-18 17:16+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/home/Home.tsx:22
+msgid "About"
+msgstr "À propos"
+
+#: src/home/Home.tsx:25
+msgid "Blog"
+msgstr "Blog"
+
+#: src/home/Home.tsx:19
+msgid "Courses"
+msgstr "Cours"
+
+#: src/home/Home.tsx:16
+msgid "Home"
+msgstr "Accueil"
+
+#. js-lingui-explicit-id
+#: src/home/Home.tsx:41
+msgid "innovate"
+msgstr "\"Apprentissage avec des MOOC sur l'Innovation Ouverte"
+
+#: src/home/Home.tsx:44
+msgid "Localisation follows after Internationalization it focuses on the details of the translation process. It involves ensuring that the translated language reflects the culture of the user in terms of content, page displayed, text direction without losing its original meaning."
+msgstr "La localisation intervient après l'internationalisation, elle se concentre sur les détails du processus de traduction. Elle implique de s'assurer que la langue traduite reflète la culture de l'utilisateur en termes de contenu, de mise en page, de direction du texte, sans perdre son sens original."
+
+#: src/home/Home.tsx:32
+msgid "Log in"
+msgstr "Se connecter"
+
+#: src/home/Home.tsx:35
+msgid "Sign Up"
+msgstr "S'inscrire"
