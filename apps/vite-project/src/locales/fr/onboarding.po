@@ -13,56 +13,58 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#. js-lingui-explicit-id
-#: src/onboarding/index.tsx:51
-msgid "message_count"
-msgstr[0] "Il n'y a pas de messages"
+#: src/onboarding/index.tsx:50
+msgid "{count, plural, one {There's # message in your inbox} other {There are # messages in your inbox}}"
 msgstr[1] "Il y a un message dans votre boîte de réception"
 msgstr[2] "Il y a # messages dans votre boîte de réception"
 
-#: src/onboarding/index.tsx:49
+#: src/onboarding/index.tsx:48
 msgid "Click"
 msgstr "Cliquez"
 
-#: src/onboarding/index.tsx:17
+#: src/onboarding/index.tsx:13
 msgid "Green"
 msgstr "Vert"
 
 #. js-lingui-explicit-id
-#: src/onboarding/index.tsx:36
+#: src/onboarding/index.tsx:33
 msgid "msg.hello"
 msgstr "Bonjour à tous !!!"
 
 #. js-lingui-explicit-id
-#: src/onboarding/index.tsx:39
+#: src/onboarding/index.tsx:36
 msgid "msg.welcome"
-msgstr "Bonjour à tous !!!"
+msgstr "Bienvenue à tous !!!"
 
-#: src/onboarding/index.tsx:33
+#: src/onboarding/index.tsx:30
 msgid "Hello John"
 msgstr "Bonjour John"
 
-#: src/onboarding/index.tsx:60
+#: src/onboarding/index.tsx:20
+msgid "Home"
+msgstr ""
+
+#: src/onboarding/index.tsx:59
 msgid "Last login on {0}."
 msgstr "Dernière connexion le {0}."
 
 #. js-lingui-explicit-id
-#: src/onboarding/index.tsx:29
+#: src/onboarding/index.tsx:27
 msgid "msg.header"
 msgstr "Exemple LinguiJS"
 
-#: src/onboarding/index.tsx:25
+#: src/onboarding/index.tsx:22
 msgid "Onboarding"
 msgstr "Intégration"
 
-#: src/onboarding/index.tsx:15
+#: src/onboarding/index.tsx:13
 msgid "Orange"
 msgstr "Orange"
 
-#: src/onboarding/index.tsx:14
+#: src/onboarding/index.tsx:13
 msgid "Red"
 msgstr "Rouge"
 
-#: src/onboarding/index.tsx:16
+#: src/onboarding/index.tsx:13
 msgid "Yellow"
 msgstr "Jaune"

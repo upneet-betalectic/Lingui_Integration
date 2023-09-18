@@ -15,54 +15,61 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/onboarding/index.tsx:51
-msgid "message_count"
-msgstr[0] "There are no messages"
+#~ msgid "message_count"
+#~ msgstr "There are no messages"
+
+#: src/onboarding/index.tsx:50
+msgid "{count, plural, one {There's # message in your inbox} other {There are # messages in your inbox}}"
 msgstr[1] "There's one message in your inbox"
 msgstr[2] "There are # messages in your inbox"
 
-#: src/onboarding/index.tsx:49
+#: src/onboarding/index.tsx:48
 msgid "Click"
 msgstr ""
 
-#: src/onboarding/index.tsx:17
+#: src/onboarding/index.tsx:13
 msgid "Green"
 msgstr ""
 
 #. js-lingui-explicit-id
-#: src/onboarding/index.tsx:36
+#: src/onboarding/index.tsx:33
 msgid "msg.hello"
 msgstr "Hello all!!!"
 
 #. js-lingui-explicit-id
-#: src/onboarding/index.tsx:39
+#: src/onboarding/index.tsx:36
 msgid "msg.welcome"
 msgstr "Hello all!!!"
 
-#: src/onboarding/index.tsx:33
+#: src/onboarding/index.tsx:30
 msgid "Hello John"
 msgstr ""
 
-#: src/onboarding/index.tsx:60
+#: src/onboarding/index.tsx:20
+msgid "Home"
+msgstr ""
+
+#: src/onboarding/index.tsx:59
 msgid "Last login on {0}."
 msgstr ""
 
 #. js-lingui-explicit-id
-#: src/onboarding/index.tsx:29
+#: src/onboarding/index.tsx:27
 msgid "msg.header"
 msgstr "LinguiJS example"
 
-#: src/onboarding/index.tsx:25
+#: src/onboarding/index.tsx:22
 msgid "Onboarding"
 msgstr ""
 
-#: src/onboarding/index.tsx:15
+#: src/onboarding/index.tsx:13
 msgid "Orange"
 msgstr ""
 
-#: src/onboarding/index.tsx:14
+#: src/onboarding/index.tsx:13
 msgid "Red"
 msgstr ""
 
-#: src/onboarding/index.tsx:16
+#: src/onboarding/index.tsx:13
 msgid "Yellow"
 msgstr ""

@@ -30,18 +30,22 @@ msgid "Home"
 msgstr "Accueil"
 
 #. js-lingui-explicit-id
-#: src/home/Home.tsx:41
+#: src/home/Home.tsx:44
 msgid "innovate"
 msgstr "\"Apprentissage avec des MOOC sur l'Innovation Ouverte"
 
-#: src/home/Home.tsx:44
+#: src/home/Home.tsx:47
 msgid "Localisation follows after Internationalization it focuses on the details of the translation process. It involves ensuring that the translated language reflects the culture of the user in terms of content, page displayed, text direction without losing its original meaning."
 msgstr "La localisation intervient après l'internationalisation, elle se concentre sur les détails du processus de traduction. Elle implique de s'assurer que la langue traduite reflète la culture de l'utilisateur en termes de contenu, de mise en page, de direction du texte, sans perdre son sens original."
 
-#: src/home/Home.tsx:32
+#: src/home/Home.tsx:35
 msgid "Log in"
 msgstr "Se connecter"
 
-#: src/home/Home.tsx:35
+#: src/home/Home.tsx:28
+msgid "Onboarding"
+msgstr ""
+
+#: src/home/Home.tsx:38
 msgid "Sign Up"
 msgstr "S'inscrire"

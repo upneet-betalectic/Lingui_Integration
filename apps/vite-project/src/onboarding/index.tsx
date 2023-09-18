@@ -13,8 +13,9 @@ const Onboarding = () => {
     const favoriteColors = [ t`Red`, t`Orange`, t`Yellow`, t`Green`];
 
     const lastLogin = new Date();
+    
   return (
-    <div className='p-4 mb-4 grid'>
+    <div className='p-4 my-6 grid'>
         <div className="flex items-center gap-6 justify-center">
           <a className="hover:text-primary" href="/">
             <Trans> Home</Trans>
@@ -22,7 +23,7 @@ const Onboarding = () => {
           <h1><Trans>Onboarding</Trans></h1>
         </div>
         
-        <div className='grid grid-flow-col'>
+        <div className='grid grid-flow-col  '>
             <p>
                 <Trans id="msg.header">LinguiJS example</Trans>
             </p>
@@ -50,16 +51,16 @@ const Onboarding = () => {
             <Plural
             // id='message_count'
             value={count}
-            _0={"There are no messages"}
+            // _0={"There are no messages"}
             one={"There's # message in your inbox"}
             other={"There are # messages in your inbox"}/>
         </p>
 
-        <footer>
+        <div>    
             <Trans>
             Last login on {i18n.date(lastLogin)}.
             </Trans>
-        </footer>
+        </div>
     </div>
   )
 }
